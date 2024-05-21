@@ -24,7 +24,7 @@ export default function Home() {
 
       </ThirdRow>
       <a target="_blank" rel="noopener noreferrer"
-      href="https://docs.google.com/spreadsheets/d/1uYVYcAASsKZmrnbT69B8HFFIM-8yjxzq6r_EknF9GIA/edit?usp=sharing">
+      href="https://linktr.ee/bolamagicmarket">
         <div id='catalog'
           className="flex justify-center align-bottom"
           style={{
