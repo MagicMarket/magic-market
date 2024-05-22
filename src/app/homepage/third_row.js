@@ -13,7 +13,7 @@ const ThirdRow = ({ children }) => {
                     height: '40px',
                     backgroundColor: '#FF7F3E'
                 }}>
-                -=== Rekomendasi ===-
+                -=== Toko Random ===-
             </div>
             <div style={{padding:'5px'}}></div>
 

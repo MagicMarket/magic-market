@@ -1,12 +1,54 @@
 [
     {
-      "product": "C",
-      "img_src": "https://images.tokopedia.net/img/cache/900/VqbcmM/2024/1/9/aaa2a33e-6c3c-4068-adb4-0ade880db356.jpg",
-      "link": "https://tokopedia.com"
+      "product": "Biji Kita",
+      "img_src": "./2_gundu.jpg",
+      "link": "https://s.shopee.co.id/1B0axAFeF0"
     },
     {
-      "product": "C",
-      "img_src": "https://images.tokopedia.net/img/cache/900/VqbcmM/2024/1/24/c9aa0ec0-0844-4233-8f6f-d9035169924c.png",
-      "link": "https://tokopedia.com"
+      "product": "Bawang Goyeng~",
+      "img_src": "./2_bawang.webp",
+      "link": "https://shope.ee/7zqv6MvKyN"
+    }
+    ,
+    {
+      "product": "Begal Kawan",
+      "img_src": "./2_bagelan.webp",
+      "link": "https://shope.ee/8AALItkiUL"
+    }
+    ,
+    {
+      "product": "Kripiks Kaca",
+      "img_src": "./2_kaca.webp",
+      "link": "https://shope.ee/8zjSIWaikJ"
+    }
+    ,
+    {
+      "product": "Kacang Euy~",
+      "img_src": "./2_kacang.webp",
+      "link": "https://s.shopee.co.id/7AHo7JvKPZ"
+    }
+    ,
+    {
+      "product": "Kue Coklat KreNyeZ",
+      "img_src": "./2_cokie.webp",
+      "link": "https://shope.ee/AUYG6zna7v"
+    }
+    ,
+    {
+      "product": "COKIEE!!",
+      "img_src": "./2_coklat.jpg",
+      "link": "https://shope.ee/605qld8hEc"
+    }
+    ,
+    {
+      "product": "Kripiz Ayam",
+      "img_src": "./2_kulit.webp",
+      "link": "https://s.shopee.co.id/6APGxD8dmR"
+    }
+    ,
+    {
+      "product": "Kripiz Kakap!?",
+      "img_src": "./2_kakap.webp",
+      "link": "https://shope.ee/10hAoBC7vJ"
     }
   ]

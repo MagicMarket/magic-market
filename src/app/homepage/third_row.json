@@ -1,12 +1,30 @@
 [
     {
-      "product": "A",
-      "img_src": "https://images.tokopedia.net/img/cache/900/VqbcmM/2024/1/9/aaa2a33e-6c3c-4068-adb4-0ade880db356.jpg",
-      "link": "https://tokopedia.com"
+      "product": "Bobobo Boneka",
+      "img_src": "./3_boneka.jpg",
+      "link": "https://shope.ee/g4KLOyxXP"
     },
     {
-      "product": "B",
-      "img_src": "https://images.tokopedia.net/img/cache/900/VqbcmM/2024/1/24/c9aa0ec0-0844-4233-8f6f-d9035169924c.png",
-      "link": "https://tokopedia.com"
+      "product": "SkinCare",
+      "img_src": "3_skincare.jpg",
+      "link": "https://s.shopee.co.id/5V9a6pbUFU"
+    }
+    ,
+    {
+      "product": "Maduuuuu",
+      "img_src": "./3_madu.jpg",
+      "link": "https://s.shopee.co.id/5AWjk0kiLi"
+    }
+    ,
+    {
+      "product": "Baju 50% off!",
+      "img_src": "./3_baju.jpg",
+      "link": "https://shope.ee/9KMIhv6n32"
+    }
+    ,
+    {
+      "product": "Audio Mahal BOSS",
+      "img_src": "./3_audio.jpg",
+      "link": "https://shope.ee/4Kxckz1pbs"
     }
   ]
