@@ -1,42 +1,37 @@
 [
   {
-    "product": "Ayam",
-    "img_src": "https://images.tokopedia.net/img/cache/900/VqbcmM/2024/1/9/aaa2a33e-6c3c-4068-adb4-0ade880db356.jpg",
-    "link": "https://tokopedia.com"
+    "product": "El Doggo",
+    "img_src": "./eldoggo.jpeg",
+    "link": "https://s.shopee.co.id/7KbCPcStdA"
   },
   {
-    "product": "Babi",
-    "img_src": "https://images.tokopedia.net/img/cache/900/VqbcmM/2024/1/24/c9aa0ec0-0844-4233-8f6f-d9035169924c.png",
-    "link": "https://tokopedia.com"
+    "product": "El Bebe",
+    "img_src": "elbebe.webp",
+    "link": "https://shope.ee/4VH11yoWJO"
   }
   ,
   {
-    "product": "Babi",
-    "img_src": "https://images.tokopedia.net/img/cache/900/VqbcmM/2024/1/24/c9aa0ec0-0844-4233-8f6f-d9035169924c.png",
-    "link": "https://tokopedia.com"
+    "product": "El Gato",
+    "img_src": "elgato.webp",
+    "link": "https://shope.ee/2VVoChTf4V"
   }
   ,
   {
-    "product": "Babi",
-    "img_src": "https://images.tokopedia.net/img/cache/900/VqbcmM/2024/1/24/c9aa0ec0-0844-4233-8f6f-d9035169924c.png",
-    "link": "https://tokopedia.com"
+    "product": "El Dolphino",
+    "img_src": "eldolpino.webp",
+    "link": "https://s.shopee.co.id/2At6r2PwMK"
   }
   ,
   {
-    "product": "Babi",
-    "img_src": "https://images.tokopedia.net/img/cache/900/VqbcmM/2024/1/24/c9aa0ec0-0844-4233-8f6f-d9035169924c.png",
-    "link": "https://tokopedia.com"
+    "product": "Pinapele",
+    "img_src": "pinaple.webp",
+    "link": "https://shope.ee/g4J6Mf8aI"
   }
   ,
   {
-    "product": "Babi",
-    "img_src": "https://images.tokopedia.net/img/cache/900/VqbcmM/2024/1/24/c9aa0ec0-0844-4233-8f6f-d9035169924c.png",
-    "link": "https://tokopedia.com"
+    "product": "Wortelle",
+    "img_src": "wortelle.webp",
+    "link": "https://shope.ee/9KMHPvqMEr"
   }
-  ,
-  {
-    "product": "Babi",
-    "img_src": "https://images.tokopedia.net/img/cache/900/VqbcmM/2024/1/24/c9aa0ec0-0844-4233-8f6f-d9035169924c.png",
-    "link": "https://tokopedia.com"
-  }
+  
 ]
