@@ -5,7 +5,11 @@ import WelcomeLayout from "./homepage/welcome";
 
 export default function Home() {
   return (
-    <main className="">
+    <main style={
+      {
+        backgroundColor:'#373A40'
+      }
+    }>
       <div style={{padding:'5px'}}></div>
       <HeaderLayout>
 

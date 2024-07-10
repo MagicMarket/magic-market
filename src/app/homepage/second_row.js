@@ -13,7 +13,7 @@ const SecondRow = ({ children }) => {
                     height: '40px',
                     backgroundColor: '#C738BD'
                 }}>
-                -| Jajanan Hari Ini |-
+                -| Toko Ijo |-
             </div>
             <div style={{padding:'5px'}}></div>
 
