@@ -7,6 +7,7 @@ export default function Home() {
   return (
     <main style={
       {
+        height:'inherit',
         backgroundColor:'#373A40'
       }
     }>
@@ -27,19 +28,6 @@ export default function Home() {
       <ThirdRow>
 
       </ThirdRow>
-      <a target="_blank" rel="noopener noreferrer"
-      href="https://linktr.ee/bolamagicmarket">
-        <div id='catalog'
-          className="flex justify-center align-bottom"
-          style={{
-            backgroundColor: '#2A629A',
-            fontSize: '15pt', fontWeight: 'bold',
-            width: 'inherit', height: '35px', alignItems: 'flex-end'
-          }}
-        >
-          Katalatog
-        </div>
-      </a>
     </main>
   );
 }
